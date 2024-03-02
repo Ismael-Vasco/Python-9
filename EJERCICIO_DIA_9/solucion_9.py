@@ -8,7 +8,10 @@ import math
 inicio = time.time()
 
 #ruta = "C:\\PYTHON_TOTAL\\EJERCICIO_DIA_9\\proyecto_dia_9\\Mi_Gran_Directorio"
-ruta = "C:\\Users\\Lenovo\\Desktop\Cursos_ISMA\\PYTHON_TOTAL\\EJERCICIO_DIA_9\\proyecto_dia_9"
+#ruta = "C:\\Users\\Lenovo\\Desktop\Cursos_ISMA\\PYTHON_TOTAL\\EJERCICIO_DIA_9\\proyecto_dia_9"
+
+# Ruta github
+ruta = "/workspaces/Python-9/EJERCICIO_DIA_9/proyecto_dia_9"
 
 #Patron de busqueda expresión regular
 mi_patron = r'N\D{3}-\d{5}'
